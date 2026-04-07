@@ -1,0 +1,27 @@
+**Stop building one-off AI integrations.**
+
+If you’re using AI in a real SMB, the blocker isn’t prompts.
+
+It’s wiring agents into:
+- docs
+- CRM
+- tickets
+- spreadsheets
+- repos
+
+Model Context Protocol (MCP) is emerging as a standard “connector layer” between AI apps and your business tools.
+
+Why it matters:
+- one integration surface for multiple AI tools
+- safer permissions (least privilege)
+- easier to prototype → then harden
+
+Practical ROI use cases:
+1) Support triage (read sources, draft replies)
+2) CRM hygiene + follow-ups (draft + update fields)
+3) Weekly ops updates (collect signals, write a draft)
+
+Rule that saves teams:
+Read access first. Write access later (with approvals).
+
+Full post at aibusiness.press 🔗
