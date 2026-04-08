@@ -1,0 +1,25 @@
+**Agents that create agents is trending. Here’s the SMB takeaway.**
+
+A new wave of “agentic automation” is getting noisy again.
+
+Emergence AI is being covered for a platform where you describe a task, and the system can generate new AI agents to do it.
+
+Cool demo.
+But the real business value is the pattern:
+
+• A registry of approved tools/connectors
+• Verification before action (esp. money, CRM, comms)
+• Human checkpoints for high-risk steps
+• Reusable templates and audit logs
+
+If you’re an entrepreneur, don’t chase autonomy.
+Chase reliability.
+
+Practical first wins:
+• Support triage that drafts replies (humans send)
+• Sales ops that proposes CRM updates (humans approve)
+• Invoice follow-ups that queue drafts, not emails
+
+Pricing note: pricing isn’t publicly listed (enterprise contact).
+
+Full post at aibusiness.press 🔗

@@ -1,0 +1,43 @@
+1/8 Agents that *create agents* are trending again.
+
+Emergence AI is getting fresh coverage for a platform that can generate new AI agents on the fly from a plain-English task.
+
+Here’s what SMBs should actually take from it. 
+
+2/8 The headline: describe the work, system checks a registry of agents, and if it can’t solve it, it creates a new agent and registers it.
+
+That’s the “agents build agents” loop.
+
+3/8 SMB reality check: you probably don’t need to *buy* a recursive agent platform.
+
+You can copy the pattern using your existing stack (LLM + connectors + guardrails).
+
+4/8 The pattern to steal:
+
+• Tool registry (approved capabilities)
+• Plan generation (LLM drafts steps)
+• Verification (schema + policy checks)
+• Human checkpoints for risky actions
+• Save as reusable templates
+
+5/8 First project ideas (low risk, high ROI):
+
+• Support triage that drafts replies (human sends)
+• Sales ops that proposes CRM updates (human approves)
+• Weekly KPI summaries with transparent assumptions
+
+6/8 What NOT to automate end-to-end:
+
+• refunds
+• billing changes
+• contract edits
+• sending customer emails unsupervised
+• deleting data
+
+Make the agent propose, not execute.
+
+7/8 Pricing note: coverage says pricing isn’t publicly listed (enterprise contact).
+
+So treat it as a signal: the market is early, and reliability + governance are the real moat.
+
+8/8 Full breakdown → aibusiness.press [link]
