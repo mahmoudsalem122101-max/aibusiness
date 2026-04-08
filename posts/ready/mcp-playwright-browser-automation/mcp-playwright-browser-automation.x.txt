@@ -1,0 +1,19 @@
+1/8 MCP is trending because it standardizes how AI agents use tools (not just generate text).
+
+2/8 Big update: MCP added pieces aimed at real production use, like OAuth 2.1 auth, streamable HTTP transport, JSON-RPC batching, and tool annotations. (VentureBeat)
+
+3/8 Why SMBs should care: most “automation pain” lives in web apps without clean APIs (vendor portals, dashboards, admin consoles).
+
+4/8 Microsoft shipped Playwright-MCP: an MCP server that exposes Playwright browser automation as structured tools. (GitHub)
+
+5/8 Key detail: it uses structured accessibility snapshots, not screenshots, so actions can be more deterministic and less flaky.
+
+6/8 Practical workflows:
+- overdue invoice checks + follow-ups
+- weekly KPI pulls from dashboards
+- helpdesk triage (tag/route)
+- form submissions → CRM entry
+
+7/8 Pricing reality: Playwright-MCP is open source (no public price). Costs come from your model/agent platform + monitoring + maintenance.
+
+8/8 Want the step-by-step + guardrails? Full breakdown → aibusiness.press [link]

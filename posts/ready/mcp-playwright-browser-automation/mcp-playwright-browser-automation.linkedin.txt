@@ -1,0 +1,24 @@
+**Stop hiring humans to click dashboards.**
+
+A real trend for SMB ops: tool-first AI agents.
+
+Model Context Protocol (MCP) just shipped major updates (OAuth 2.1 auth, streamable HTTP, batching).
+
+Microsoft also released Playwright-MCP, which lets an AI agent reliably:
+- navigate pages
+- click/type
+- read structured accessibility snapshots (not screenshots)
+
+What this means:
+You can automate the “web-only” stuff:
+- invoice status checks
+- weekly KPI pulls
+- support ticket tagging
+- form → CRM entry
+
+Pricing reality:
+Playwright-MCP is open source (no public price). Your cost is the agent/model usage + monitoring.
+
+If you want to try it, start with ONE read-only workflow and add guardrails (least-privilege account, logs, allowlisted domains).
+
+Full post at aibusiness.press 🔗
