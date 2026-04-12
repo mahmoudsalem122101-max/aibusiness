@@ -1,0 +1,15 @@
+**Your AI assistant gets way more useful when it can call *approved workflows*, not freestyle.**
+
+Microsoft just enabled Azure Logic Apps (Standard) to run as remote MCP servers.
+Translation: your AI can trigger your existing automations as safe “tools.”
+
+Real SMB wins:
+- Draft quotes + follow-ups
+- Pull order status + prep replies
+- Create CRM notes + tasks
+- Build weekly reports automatically
+
+Best practice: AI proposes, workflows execute, humans approve.
+Start with one boring, reversible workflow and lock permissions down.
+
+Full post at aibusiness.press 🔗

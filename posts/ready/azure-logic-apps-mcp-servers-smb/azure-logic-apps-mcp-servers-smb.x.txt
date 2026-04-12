@@ -1,0 +1,24 @@
+1/8 Your AI assistant is only useful if it can do real work, safely.
+
+Azure Logic Apps (Standard) can now act as remote MCP servers.
+
+2/8 Plain English: your AI can call your existing workflows as approved “tools,” instead of improvising.
+
+3/8 Why SMBs should care: agents get dependable when they’re constrained to tools you designed.
+
+4/8 Fast use cases:
+- Draft quotes + follow-ups
+- Pull order status + prep a reply
+- Create CRM notes + tasks
+- Draft invoices (not finalize)
+
+5/8 How it works (light): workflows with an HTTP Request trigger + HTTP Response can be exposed as MCP tools, secured with auth, and called by an MCP client.
+
+6/8 Rollout rule: start with ONE valuable, boring, reversible workflow.
+Avoid refunds, deletions, or anything irreversible on day 1.
+
+7/8 Security that actually matters: least-privilege identities per tool group + separate “draft” vs “finalize” workflows with a human approval gate.
+
+8/8 If you want AI automation that won’t become a mess, focus on tools + boundaries, not hype.
+
+Full breakdown → aibusiness.press [link]
