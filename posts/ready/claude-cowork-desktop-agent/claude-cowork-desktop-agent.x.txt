@@ -1,0 +1,36 @@
+1/8 Most “AI for business” is chat.
+Claude Cowork is different: it can actually DO the work on your desktop (inside a folder you approve).
+
+2/8 Think SMB reality:
+47 receipt screenshots + job notes + a weekly report you keep postponing.
+Cowork can turn that pile into a spreadsheet + a clean recap draft.
+
+3/8 What it is (plain English):
+A mode in Claude Desktop where Claude can read, edit, and create files in a specific folder.
+Not your whole computer. A workspace.
+
+4/8 Best first use cases:
+- Receipts/invoices → spreadsheet
+- Messy notes → SOP or client update draft
+- Downloads cleanup
+- Template + exports → weekly/monthly report draft
+
+5/8 Pricing (public):
+Pro: $17/mo annual or $20/mo monthly
+Max: $100 or $200/mo
+Team: $20/seat/mo (5–75 seats)
+Enterprise: not publicly listed
+
+6/8 Rollout that won’t bite you:
+- Create a sandbox folder
+- Start with 2 “boring” tasks
+- Add a confidence column + “needs-human” tab
+- No customer emails or money movement
+
+7/8 Real risks:
+- It can overwrite/delete if you’re vague (“clean this up”)
+- Web browsing can be tricked (prompt injection)
+Mitigation: narrow scope, least access, approve actions.
+
+8/8 Net: if admin busywork is your bottleneck, Cowork is worth a test.
+Full breakdown → aibusiness.press [link]

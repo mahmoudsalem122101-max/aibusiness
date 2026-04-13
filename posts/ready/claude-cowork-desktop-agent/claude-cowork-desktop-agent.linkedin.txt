@@ -1,0 +1,14 @@
+**Your desktop just got an AI “operator”, not a chatbot.**
+
+Anthropic’s Claude Cowork can take a folder of messy files (receipts, notes, exports) and hand back real deliverables: a clean spreadsheet, a branded report draft, a tidy handoff packet.
+
+SMB-friendly wins:
+- Receipt screenshots → categorized expense sheet
+- Scattered notes → 1-page weekly recap
+- Downloads chaos → organized, renamed folders
+- Template + exports → first-draft reports/decks
+
+The trick: roll it out like an employee.
+Give it ONE sandbox folder, start with boring tasks, and require human review for anything customer-facing or financial.
+
+Full post at aibusiness.press 🔗
