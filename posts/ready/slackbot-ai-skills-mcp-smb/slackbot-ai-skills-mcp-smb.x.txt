@@ -1,0 +1,30 @@
+1/8 Slackbot just became your ops assistant (and it’s finally SMB-relevant).
+
+Salesforce is rolling out 30+ new Slackbot capabilities, incl. reusable “AI skills” + MCP tool connections.
+
+2/8 The takeaway: stop using Slack as a place where work is discussed.
+Use it as a place where work gets CLOSED OUT.
+
+3/8 The killer feature: reusable AI skills.
+Define a repeat workflow once (inputs, steps, output format), then trigger it in Slack on demand.
+
+4/8 SMB use case #1:
+Sales thread → recap + open questions + next steps + draft customer follow-up.
+
+This alone kills a ton of dropped balls.
+
+5/8 SMB use case #2:
+Meeting → action items with owners + deadlines + a checklist canvas posted to the right channel.
+
+6/8 SMB use case #3:
+Support escalation → “what happened so far” + missing screenshots/logs + clean internal handoff.
+
+7/8 How to roll it out without chaos:
+- pick ONE daily workflow
+- force a strict output template
+- keep it draft-first for 2 weeks
+- least-privilege permissions for any connected tools
+
+8/8 If your team runs the business in Slack, this is worth a serious look.
+
+Full breakdown → aibusiness.press [link]

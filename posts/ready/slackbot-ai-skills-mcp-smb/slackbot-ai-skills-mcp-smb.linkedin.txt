@@ -1,0 +1,14 @@
+**Slackbot just became your ops assistant (and it’s finally useful for SMBs).**
+
+Salesforce is rolling out 30+ new Slackbot capabilities, including reusable “AI skills” (your repeatable playbooks) and MCP connections (so it can work with other tools, not just chat).
+
+SMB angle: this can replace a chunk of coordinator work.
+
+Real use cases:
+• Sales thread → recap + next steps + draft follow-up
+• Meeting → action items with owners + a checklist canvas
+• Support escalation → clean handoff + missing info list
+
+Big rule: start “draft-first” for 2 weeks, then automate.
+
+Full post at aibusiness.press 🔗
