@@ -1,0 +1,19 @@
+**Stop rewriting the same customer emails. Gmail can now draft them using the full thread.**
+
+If your team lives in Gmail, “contextual Smart Replies” (Gemini-powered) is one of the few AI features that actually saves time.
+
+It generates longer, ready-to-edit replies based on the *entire* email conversation.
+
+SMB uses:
+- Support follow-ups (status, next steps)
+- Sales recap emails (pricing, what’s included)
+- Project updates (scope, timelines)
+
+How to roll it out safely:
+1) Pilot in one inbox (support@ or sales@)
+2) Enforce a 20-second “facts + tone” check
+3) Ban it for contracts/HR/refunds beyond policy
+
+Pricing note: Workspace plans list Gemini in Gmail, starting at $7/user/month (annual commitment).
+
+Full post at aibusiness.press 🔗

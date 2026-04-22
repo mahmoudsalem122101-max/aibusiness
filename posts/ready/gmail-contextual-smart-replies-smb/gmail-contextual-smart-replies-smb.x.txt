@@ -1,0 +1,33 @@
+1/8 Stop rewriting the same customer emails.
+Gmail’s new “contextual Smart Replies” can draft a real reply using the *whole thread*, not just a generic one-liner.
+
+2/8 Who it’s for:
+SMBs living in Gmail (support@, sales@, ops) where questions repeat and speed matters.
+
+3/8 What it does (plain English):
+When you hit Reply, Gmail shows 2–3 longer suggested replies that pull details from the conversation.
+You click, edit, send.
+
+4/8 Best use cases:
+• Support follow-ups (status, next steps)
+• Sales back-and-forth (recaps, scheduling)
+• Project updates (scope/timeline confirmations)
+• Vendor coordination
+
+5/8 What it doesn’t do well:
+• Anything not already in the thread
+• Legal/HR/medical topics
+• Disputes/refunds beyond policy
+(You still own the send button.)
+
+6/8 Pricing/requirements:
+It’s part of Google Workspace plans that list “Gemini in Gmail.” Pricing depends on your Workspace tier (per-user/month).
+
+7/8 Rollout in 30 minutes:
+• Pilot 1 inbox
+• Rule: AI drafts fast, humans verify facts + tone
+• Add a tiny “house style” snippet doc
+• Decide what never gets AI help
+
+8/8 The win: faster replies without sounding like robots.
+Full breakdown → aibusiness.press [link]
