@@ -1,0 +1,15 @@
+**A 24/7 AI “operator” is showing up, and it’s not just another chatbot.**
+
+Perplexity is pushing AI past chat into an always-on “Personal Computer” that can work across apps.
+
+If you run an SMB, the win isn’t novelty.
+It’s finally killing the boring workflow tax:
+
+- daily ops brief (sales, support, refunds)
+- sales follow-up drafts + CRM task lists
+- support triage (draft-only, with approval)
+
+Key rule: start with *drafts only*.
+Create a dedicated agent account, restrict it to one folder/channel, and keep “send” permissions off until it earns trust.
+
+Full post at aibusiness.press 🔗

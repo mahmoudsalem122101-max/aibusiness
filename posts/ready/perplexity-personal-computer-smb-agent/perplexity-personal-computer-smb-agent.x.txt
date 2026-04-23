@@ -1,0 +1,31 @@
+1/8 Perplexity is trying to turn “AI chat” into an always-on AI *operator*.
+
+Not a bot that answers.
+A system that can actually run workflows across apps.
+
+2/8 The SMB takeaway: if you have repeatable busywork (email, CRM, ops reporting), this could save real hours.
+
+But only with guardrails.
+
+3/8 The pitch (per reporting): “Personal Computer” runs 24/7, includes an activity log + kill switch, and is gated behind Perplexity Max.
+
+4/8 The use cases I’d pilot first:
+- daily operator brief (sales/support/refunds)
+- sales follow-up drafts + clean CRM tasks
+- support triage (draft-only)
+
+5/8 Rollout rule that prevents disasters:
+AI drafts and prepares.
+Humans send and finalize.
+
+6/8 Least-privilege setup (concrete):
+- email: read + draft, no send
+- docs: only one folder
+- Slack: only #ai-drafts channel
+- CRM: create notes/tasks, no deletes
+
+7/8 Pricing (public reporting): Personal Computer requires Perplexity Max at ~$200/month + waitlist.
+
+8/8 If you’re curious: run a 2-week pilot on ONE workflow, measure hours saved, and keep permissions tight.
+
+Full breakdown → aibusiness.press [link]
