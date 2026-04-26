@@ -1,0 +1,33 @@
+1/8 Slack is turning into an automation dashboard.
+Perplexity’s “Computer for Enterprise” is an AI agent you can talk to in Slack, with connectors into business tools.
+
+2/8 The shift: not “answers”. Outcomes.
+Ticket triage, proposal drafts, weekly reports, account research, packaged into deliverables.
+
+3/8 If you run an SMB, start with boring wins:
+• Support triage + draft replies
+• Weekly reporting + standup doc
+• Sales prep + follow-ups
+
+4/8 The real unlock is connectors.
+If it can read your inbox/docs/CRM, it stops being a toy and becomes an ops assistant.
+
+5/8 Biggest mistake: giving it everything.
+Start least-privilege:
+• Read-only shared inbox
+• Limited doc space
+• CRM read access first
+
+6/8 Define approval moments.
+Human must approve anything that:
+• sends external email
+• edits CRM fields
+• touches billing/refunds
+• changes customer status
+
+7/8 Watch two risks:
+• leaking sensitive info in shared Slack channels
+• usage-based credits = spend creep
+Measure hours saved vs weekly cost.
+
+8/8 Full breakdown → aibusiness.press [link]

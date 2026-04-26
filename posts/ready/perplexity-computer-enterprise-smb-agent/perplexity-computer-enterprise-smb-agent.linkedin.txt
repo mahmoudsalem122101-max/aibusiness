@@ -1,0 +1,14 @@
+**Slack is turning into an automation dashboard.**
+
+Perplexity just pushed its “Computer for Enterprise” AI agent into Slack and business connectors, so it can do real work, not just chat.
+
+SMB use cases that actually matter:
+• Support triage + draft replies
+• Weekly ops reporting you’ll ship
+• Sales/account prep + follow-ups
+• Proposal/SOW first drafts
+
+The key is permissions.
+Start read-only, use a dedicated channel, and make “send email / edit CRM / billing” require human approval.
+
+Full post at aibusiness.press 🔗
