@@ -1,0 +1,18 @@
+**Slack can now be your “ops assistant.”** Perplexity’s new Computer for Enterprise is an AI agent you can @mention in Slack to produce real deliverables across your tools, not just answers.
+
+Picture Friday 4:45pm:
+Support tickets piling up.
+Monday sales call prep.
+Weekly ops update.
+
+Instead of chasing 3 people, you delegate one objective:
+“@computer triage tickets, draft replies, write escalation briefs, and package a Monday handoff doc.”
+
+Best SMB use cases:
+• Support triage + Monday handoff doc
+• Sales call briefs from CRM + notes
+• Weekly ops summaries from Slack
+
+If you try it, start with least-privilege access (dedicated service account, limited channels, approvals for anything that sends/changes data).
+
+Full post at aibusiness.press 🔗

@@ -1,0 +1,29 @@
+1/8 Slack can now be your “ops assistant.”
+Perplexity’s Computer for Enterprise is an AI agent you can @mention to produce *outputs* across business tools, not just chat answers.
+
+2/8 The SMB angle: this is for the boring expensive work.
+Ticket triage. Draft replies. Weekly summaries. Sales call briefs.
+
+3/8 A Friday 4:45pm prompt:
+“@computer triage weekend tickets by severity, draft customer responses, write escalation briefs, and package everything into a Monday standup doc.”
+
+4/8 Why it’s trending: it’s an orchestration layer.
+You give an objective → it breaks it into steps → uses models + connectors → ships a finished doc.
+
+5/8 Best starter workflows for 5–200 person teams:
+- Support triage + Monday handoff doc
+- Sales call prep (CRM + notes)
+- Weekly ops update from Slack
+
+6/8 Implementation rule: least privilege.
+Use a dedicated service account.
+Limit Slack channels.
+Read-only where possible.
+Approvals for anything that sends emails/changes records.
+
+7/8 Real risks:
+- Prompt injection via tickets/emails/web content
+- Confident but wrong summaries
+- Oversharing if you connect too many apps too fast
+
+8/8 Full breakdown → aibusiness.press [link]
