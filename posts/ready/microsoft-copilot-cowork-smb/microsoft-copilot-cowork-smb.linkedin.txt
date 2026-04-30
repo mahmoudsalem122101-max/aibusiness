@@ -1,0 +1,18 @@
+**Copilot just leveled up: Microsoft’s new “Cowork” can plan + execute work across Outlook, Teams, Excel, and your files (with approval checkpoints).**
+
+Picture this: it’s 4:40pm, a client meeting moves to 9am, and your “prep” is scattered across:
+- Outlook threads
+- Teams chats
+- a SharePoint deck
+- an Excel pipeline file
+
+Cowork’s pitch: you hand it the outcome (“prep the packet + update the deck + draft the follow-up + block prep time”), it does the digging and drafting in the background, then asks you to approve actions before changes land.
+
+Where SMBs will feel it first:
+- Meeting packets (briefing doc + updated deck + follow-up email)
+- Calendar cleanup and focus time protection
+- Fast account/vendor research with citations
+
+Reality check: it’s Research Preview + Frontier program right now, and Cowork-specific pricing isn’t publicly listed yet.
+
+Full post at aibusiness.press 🔗

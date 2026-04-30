@@ -1,0 +1,28 @@
+1/8 Copilot isn’t just writing your emails anymore. Microsoft’s new “Copilot Cowork” is built to *do the work* across Outlook, Teams, Excel, and files (with approval checkpoints).
+
+2/8 The idea: you describe an outcome. Cowork turns it into a plan, runs it in the background, and pulls context from your Microsoft 365 data.
+
+3/8 SMB scenario: “Prep tomorrow’s client meeting.”
+Cowork can gather the thread context, build a briefing doc, update a deck, draft the follow-up email, and block prep time.
+
+4/8 Best early use cases for small teams:
+• Meeting packets (doc + deck + email)
+• Calendar cleanup + focus time
+• Account/vendor research with citations
+• Launch plans (doc + spreadsheet + assets)
+
+5/8 Why this matters: most SMB ops work is scavenger hunts across inbox + Teams + files. Agents help when they can *connect* those systems, not just chat.
+
+6/8 Practical rollout:
+Start with 1 repeatable workflow.
+Create a “Cowork-safe” SharePoint folder + templates.
+Keep a human approval gate for anything that sends/schedules/edits numbers.
+
+7/8 Risks to watch:
+• Messy permissions = accidental over-sharing
+• Excel workflows need extra review
+• If key info lives in screenshots/DMs, packets will miss it
+
+8/8 It’s in Research Preview + Frontier program right now (Cowork pricing not publicly listed yet). Still worth prepping if you live in M365.
+
+Full breakdown → aibusiness.press [link]
