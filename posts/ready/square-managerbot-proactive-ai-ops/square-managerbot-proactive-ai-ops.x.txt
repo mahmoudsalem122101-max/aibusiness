@@ -1,0 +1,21 @@
+1/8 Square just shipped something SMBs actually want: an “AI ops manager.”
+
+Managerbot (open beta) lives inside Square Dashboard and brings you a short list of issues + drafted fixes to approve.
+
+2/8 The shift: from reactive chat (“ask me anything”) → proactive ops (“here’s what’s about to break”).
+
+3/8 Use case #1: stockouts before they happen.
+It watches sales velocity vs stock and flags likely shortages.
+
+4/8 Use case #2: schedule drafts.
+It drafts optimized schedules based on projected sales + team availability, then you review.
+
+5/8 Use case #3: marketing drafts you’ll actually send.
+It surfaces campaign opportunities and drafts content for you to edit + approve.
+
+6/8 Use case #4: catalog cleanup.
+It flags missing photos, duplicate tax rates, missing descriptions, before customers feel the mess.
+
+7/8 Pricing/availability (per Square): open beta, no additional cost for many US non-franchise food & beverage, retail, health & beauty sellers (eligibility varies).
+
+8/8 Full breakdown → aibusiness.press [link]

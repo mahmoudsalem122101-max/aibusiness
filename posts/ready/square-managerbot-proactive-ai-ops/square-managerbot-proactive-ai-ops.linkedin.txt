@@ -1,0 +1,16 @@
+**Square just shipped an “AI ops manager” for small businesses.**
+
+Managerbot (open beta) sits inside Square Dashboard and *proactively* spots issues, then drafts fixes for you to approve.
+
+Think:
+- Inventory gaps before the lunch rush
+- Schedule drafts based on projected sales
+- Win-back campaigns drafted from real customer behavior
+- Catalog cleanup that prevents silent revenue leaks
+
+The key difference vs most “AI assistants”:
+It doesn’t wait for you to ask perfect questions. It shows up with a short, actionable to-do list.
+
+If you’re on Square (US, non-franchise food & beverage, retail, health & beauty), Square says it’s currently in open beta at no extra cost.
+
+Full post at aibusiness.press 🔗
