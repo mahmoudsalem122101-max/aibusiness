@@ -1,0 +1,39 @@
+1/8 Your dev team loses hours to “GitHub detective work”: triaging issues, chasing CI failures, summarizing PRs.
+
+GitHub’s official MCP server is a clean way to let an AI assistant do that *inside* GitHub.
+
+2/8 MCP = Model Context Protocol, a standard connector so AI tools can call “tools” (read PRs, fetch logs, open issues) instead of you copy-pasting links and screenshots.
+
+3/8 The SMB win is not magic coding.
+
+It’s faster context + fewer interruptions:
+- PR summaries
+- CI failure explanations
+- Issue triage
+- Release notes drafts
+
+4/8 Real example prompt:
+“Why did the release workflow fail last night? Pull the logs, explain the root cause, suggest the fix.”
+
+It grabs GitHub Actions logs and points to the error.
+
+5/8 Guardrails matter.
+Start READ-ONLY first.
+GitHub documents a read-only mode (header-based) so the agent can’t write changes while you test.
+
+6/8 Then leash it with toolsets:
+- CI-only tools
+- PR-review-only tools
+- Issue-triage-only tools
+
+Don’t give write tools “just because.”
+
+7/8 Add limited write later, where it’s reversible:
+- Create draft PRs (human reviews)
+- Open tracking issues
+
+Avoid early: pushing to main, mass-closing issues.
+
+8/8 If you ship software with a small team, this is a practical step toward agent workflows without building custom integrations.
+
+Full breakdown → aibusiness.press [link]

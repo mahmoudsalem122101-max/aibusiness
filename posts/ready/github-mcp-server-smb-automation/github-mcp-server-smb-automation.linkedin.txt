@@ -1,0 +1,21 @@
+**Stop paying senior devs to play GitHub detective.**
+
+GitHub’s official MCP server lets an AI assistant *safely* read repos, PRs, and CI logs, then summarize, triage, and draft fixes with real guardrails.
+
+Scenario:
+Customer reports a bug → 10 minutes of context hunting.
+With MCP → ask: “Find related issues, the likely PR that caused it, and propose a draft fix.”
+
+Best SMB uses:
+- PR first-pass summaries (risk + missing tests)
+- CI failure explanations in plain English
+- Issue triage (tag, group, next steps)
+- Draft release notes from merged PRs
+- Dependabot alert triage → tracking issues
+
+Rollout that won’t backfire:
+1) Start 1 repo, 1 week, READ-ONLY
+2) Use toolsets (CI-only, PR-review-only)
+3) Add limited write later (draft PRs, create issues)
+
+Full post at aibusiness.press 🔗
