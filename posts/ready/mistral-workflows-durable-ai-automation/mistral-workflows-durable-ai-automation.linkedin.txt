@@ -1,0 +1,22 @@
+**AI automations don’t fail because your prompt was bad. They fail because the workflow dies halfway through.**
+
+If you run an SMB, you’ve seen it:
+- the “agent” times out
+- a token expires
+- it restarts and duplicates work
+- nobody can tell what happened
+
+Mistral just launched *Workflows* (public preview), built on Temporal, to make multi-step AI automations durable:
+- retries that actually resume
+- an audit trail per step
+- built-in human approvals (pause, review, continue)
+
+Practical SMB use cases:
+- inbox triage + draft replies (with approval gates)
+- support ticket routing with traceability
+- quote → invoice → follow-up sequences
+- recurring daily ops runs (cron-style)
+
+My favorite part is the mindset shift: treat AI like production ops, not a demo.
+
+Full post at aibusiness.press 🔗

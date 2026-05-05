@@ -1,0 +1,28 @@
+1/8 AI automations don’t fail because your prompt is bad.
+They fail because the workflow dies halfway through.
+
+2/8 SMB reality:
+- a step times out
+- an API token expires
+- it restarts from the top
+- you get duplicate tickets + messy logs
+
+3/8 Mistral just launched “Workflows” (public preview): a way to run multi-step AI processes that survive crashes + keep an audit trail.
+
+4/8 Think: LLM calls + tool/API calls + human approvals… but with durable execution (built on Temporal) + retries + scheduling.
+
+5/8 Where this pays off for SMBs:
+- inbox triage + draft replies (approval gate for risky messages)
+- support routing with traceability
+- quote → invoice → follow-up
+
+6/8 The key feature is boring and valuable:
+observability.
+You can answer “what happened?” when a customer asks why something didn’t get done.
+
+7/8 What it’s NOT:
+a no-code magic button.
+It’s code-first, so most SMBs will want a technical operator (internal or fractional).
+
+8/8 If you’re building real automations, durability > clever prompts.
+Full breakdown → aibusiness.press [link]
