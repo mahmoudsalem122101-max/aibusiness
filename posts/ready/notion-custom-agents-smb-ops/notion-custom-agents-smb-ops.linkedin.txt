@@ -1,0 +1,16 @@
+**Notion just shipped “Custom Agents,” and it’s the first agent feature I’d actually pilot in an SMB.**
+
+If your team lives in Notion + Slack, this can:
+- turn Slack requests into a tracked Notion queue
+- answer repeat SOP/policy questions (with the source link)
+- post weekly ops updates on a schedule
+
+The key: start with ONE workflow, lock permissions down, and use usage alerts (pricing is usage-based: $10 per 1,000 Notion credits).
+
+I broke down:
+- best SMB use cases
+- what it costs + plan requirements
+- a safe rollout checklist (least privilege, approvals, channel limits)
+- the real risks (prompt injection, wrong answers, cost creep)
+
+Full post at aibusiness.press 🔗

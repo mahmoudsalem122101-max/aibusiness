@@ -1,0 +1,27 @@
+1/8 Notion just shipped “Custom Agents,” and it’s one of the first agent features that feels *SMB-useful* (not sci-fi).
+
+2/8 Think: a background teammate that routes requests, answers repeat questions, and posts updates across Notion + connected tools.
+
+3/8 Best first win for most teams: Slack request → Notion database item → assigns owner → asks 1 clarifying question → posts tracking link back.
+
+4/8 Other solid use cases:
+- weekly ops report posted on schedule
+- SOP/policy Q&A in Slack (always cite the source page)
+- “where’s the latest doc?” sales enablement
+
+5/8 Pricing is usage-based.
+Notion’s pricing page: Custom Agents are “$10 per 1,000 monthly Notion credits” (after the free trial/beta window).
+
+6/8 How to pilot safely:
+- 1 workflow, 1 channel, 1 owner
+- least-privilege access (agent Teamspace, read-only SOPs, edit only the queue)
+- approvals for anything external/customer-facing
+
+7/8 Real risks:
+- prompt injection (content tries to manipulate the agent)
+- confidently wrong answers if your SOPs are messy
+- cost creep if it runs all day in busy channels
+
+8/8 If you already run your ops in Notion + Slack, this is worth a 7-day controlled test.
+
+Full breakdown → aibusiness.press [link]
